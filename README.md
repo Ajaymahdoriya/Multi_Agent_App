@@ -128,7 +128,7 @@ Responsive and interactive user interface with:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Aashay30/Multi_Agent_App.git
+git clone https://github.com/Ajaymahdoriya/Multi_Agent_App.git
 cd Multi_Agent_App
 ```
 
