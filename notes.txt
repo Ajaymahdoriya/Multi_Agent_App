@@ -1,0 +1,12 @@
+we use astraDB as vector database
+langflow
+python
+streamlit
+RAG features --> allows us to grab relevant notes and inject those inside of our prompt
+
+vector database --> can store vectors (fixed length lists of numbers) along with other data items
+allows ML to be used to power search , similarity search , recommendations and text generation use-cases
+
+using the "text-embedding-ada-002" collection for notes in AstraDB --> 153 dimension and cosine similarity metric
+
+here we combine multiple ai agents and LLMs
